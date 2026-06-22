@@ -1,5 +1,6 @@
 # 🎴 Yu-Gi-Oh! Card Browser (Angular)
 
+Link> https://danielasgomez.github.io/TCG-card-viewer/
 Aplicación en Angular 20 para buscar y visualizar cartas de Yu-Gi-Oh! usando la API pública de [YGOPRODeck](https://db.ygoprodeck.com/api-guide/).
 
 ## 🚀 Características
