@@ -1,0 +1,9 @@
+.yg-card {
+    margin: 0.5em;
+}
+
+.yg-card img{
+        object-fit: cover;
+        width: 200px;
+        
+    }
